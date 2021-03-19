@@ -34,7 +34,7 @@ django-rest-swagger==2.2.0
 django-structlog==1.5.0
 django-templated-mail==1.1.1
 django-timezone-field==4.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 djoser==2.0.3
 drf-friendly-errors==0.13
 drf-yasg==1.17.1
