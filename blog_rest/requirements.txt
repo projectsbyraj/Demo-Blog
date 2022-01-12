@@ -68,7 +68,7 @@ packaging==20.3
 pexpect==4.2.1
 phonenumbers==8.11.5
 Pillow==7.0.0
-pipenv==2020.6.2
+pipenv==2022.1.8
 protobuf==3.0.0
 psycopg2==2.8.4
 pycairo==1.16.2
